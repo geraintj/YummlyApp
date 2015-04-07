@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YummlyApp", "YummlyApp\YummlyApp.csproj", "{231CF6CD-237E-4D4D-B5A9-52CF8284D8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YummlyApp.Tests", "YummlyApp.Tests\YummlyApp.Tests.csproj", "{9C50B70E-D647-4ADE-A9F0-CEF6CF4E3F68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YummlyModel", "YummlyModel\YummlyModel.csproj", "{20172DA7-D718-482E-81AD-8D141F807FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231CF6CD-237E-4D4D-B5A9-52CF8284D8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231CF6CD-237E-4D4D-B5A9-52CF8284D8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231CF6CD-237E-4D4D-B5A9-52CF8284D8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231CF6CD-237E-4D4D-B5A9-52CF8284D8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C50B70E-D647-4ADE-A9F0-CEF6CF4E3F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C50B70E-D647-4ADE-A9F0-CEF6CF4E3F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C50B70E-D647-4ADE-A9F0-CEF6CF4E3F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C50B70E-D647-4ADE-A9F0-CEF6CF4E3F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20172DA7-D718-482E-81AD-8D141F807FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20172DA7-D718-482E-81AD-8D141F807FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20172DA7-D718-482E-81AD-8D141F807FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20172DA7-D718-482E-81AD-8D141F807FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
